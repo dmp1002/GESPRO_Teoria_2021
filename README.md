@@ -11,4 +11,4 @@ Para completar el trabajo de estudio en grupo en las sesiones de teoría, se ini
 
 +https://github.com/pzb1001 Pablo Zarzosa Buitrago
 
-+https://github.com/isd1001 Iñigo Sainz
++https://github.com/isd1001 Iñigo Sanz Delgado
