@@ -7,7 +7,7 @@ Para completar el trabajo de estudio en grupo en las sesiones de teoría, se ini
 
 - [David Merinero Porres](https://github.com/dmp1002)
 
-+https://github.com/muf1002 Marcos Ubierna Fernández
+-[Marcos Ubierna Fernández](https://github.com/muf1002)
 
 +https://github.com/pzb1001 Pablo Zarzosa Buitrago
 
